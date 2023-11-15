@@ -9,6 +9,7 @@ char* upper(char str1[] ) {
     return str1;
 }
 
+//viva il duce
 
 int main() {
     printf("inserire dimensione stringa:\n");
