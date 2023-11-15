@@ -1,0 +1,3 @@
+C:/Users/Emilio/CLionProjects/esercizio19/cmake-build-debug/CMakeFiles/esercizio19.dir
+C:/Users/Emilio/CLionProjects/esercizio19/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Emilio/CLionProjects/esercizio19/cmake-build-debug/CMakeFiles/rebuild_cache.dir
