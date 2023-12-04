@@ -14,7 +14,7 @@ int main() {
     char r[t];
     printf("inserire stringa\n");
     scanf("%s", r);
-
+//la mamma di lollo sta facendo il caffè
     if (strstr(s, r) != NULL) {
         printf("La seconda stringa è una sottostringa della prima.\n");
     } else if (strstr(s, r) != NULL) {
