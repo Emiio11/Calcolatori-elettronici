@@ -1,0 +1,22 @@
+procedura compilazione C
+
+gcc -g -Wall nome.c -o nome
+gdb nome
+run nome
+
+gcc -Wall -Wextra nome.c (per vedere errori)
+
+objdump -d nome per vedere assembly
+
+
+
+
+VIM:
+
+vim nome file per creare un nuovo file e modificarlo
+esc (per uscire dalla modalità di inserimento)
+:wq (per salvare e uscire)
+
+vim nome file (per riaprirlo)
+i e poi invio per modificarlo
+
